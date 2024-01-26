@@ -6,7 +6,7 @@ My traces over at my university known to Google: [Xiaolin Jiang site:aalto.fi](h
 
 #### Learning paths
 
-* [v] 😄 [Github flow](https://education.github.com/experiences/series_intro_github_flow)
+* [x] 😄 [Github flow](https://education.github.com/experiences/series_intro_github_flow)
 
 
 <!--

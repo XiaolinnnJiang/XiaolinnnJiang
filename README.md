@@ -25,10 +25,9 @@ My traces over at my university known to Google: [Xiaolin Jiang site:aalto.fi](h
 #### Reflections and Trade-offs
 
 * Scrum versus waterflow
-* 
-![Watch the video](https://img.youtube.com/vi/xsPxwDpxybs/default.jpg)
 
-(https://youtu.be/xsPxwDpxybs)
+ 
+[![Watch the video](https://img.youtube.com/vi/xsPxwDpxybs/default.jpg)](https://youtu.be/xsPxwDpxybs)
 
 <!--
 **XiaolinnnJiang/XiaolinnnJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

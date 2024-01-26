@@ -9,6 +9,16 @@ My traces over at my university known to Google: [Xiaolin Jiang site:aalto.fi](h
 * [x] [Intro to Github](https://github.com/education/Series-Intro-to-GitHub-Flow) 😄 [Github flow](https://education.github.com/experiences/series_intro_github_flow)
 
 
+#### To do
+
+* [ ] [AI Prompting & Technical Writing](https://education.github.com/experiences/ai_prompt_tech_writing)
+* [ ] [Career Readiness](https://education.github.com/experiences/career_readiness)
+
+#### Reflections and Trade-offs
+
+Scrum versus waterflow
+[![Watch the video](https://img.youtube.com/vi/xsPxwDpxybs/default.jpg)](https://youtu.be/xsPxwDpxybs)
+
 <!--
 **XiaolinnnJiang/XiaolinnnJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

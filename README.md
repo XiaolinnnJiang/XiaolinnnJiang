@@ -11,13 +11,23 @@ My traces over at my university known to Google: [Xiaolin Jiang site:aalto.fi](h
 
 #### To do
 
+
+##### [Global Campus Github](https://education.github.com/globalcampus/student)
+
 * [ ] [AI Prompting & Technical Writing](https://education.github.com/experiences/ai_prompt_tech_writing)
 * [ ] [Career Readiness](https://education.github.com/experiences/career_readiness)
+* [ ] [TOOLS: Aspiring Creatives](https://education.github.com/experiences/aspiring_creatives)
+* [ ] [TOOLS: Virtual Event Kit](https://education.github.com/experiences/virtual_event_kit)
+* [ ] [Configuring a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+
 
 #### Reflections and Trade-offs
 
-Scrum versus waterflow
-[![Watch the video](https://img.youtube.com/vi/xsPxwDpxybs/default.jpg)](https://youtu.be/xsPxwDpxybs)
+* Scrum versus waterflow
+* 
+![Watch the video](https://img.youtube.com/vi/xsPxwDpxybs/default.jpg)
+
+(https://youtu.be/xsPxwDpxybs)
 
 <!--
 **XiaolinnnJiang/XiaolinnnJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

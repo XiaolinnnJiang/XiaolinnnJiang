@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is the leraning note of Xiaolin Jiang ( @XiaolinnnJiang ) at **Aalto University, Finland**.
+This is the learning note of Xiaolin Jiang ( @XiaolinnnJiang ) at **Aalto University, Finland**.
 
 My traces over at my university known to Google: [Xiaolin Jiang site:aalto.fi](https://www.google.com/search?q=Xiaolin+Jiang+site%3Aaalto.fi). 
 

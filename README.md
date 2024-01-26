@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is the leraning note of Xiaolin Jiang ( @XiaolinnnJiang ) at **Aalto University, Finland**.
+
+My traces over at my university known to Google: [Xiaolin Jiang site:aalto.fi](https://www.google.com/search?q=Xiaolin+Jiang+site%3Aaalto.fi). 
+
+
 <!--
 **XiaolinnnJiang/XiaolinnnJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
